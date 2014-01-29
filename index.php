@@ -19,6 +19,7 @@
                 <input type="text" placeholder="SEARCH" name="search" class="form-control form-inline" /><br /><br />
                 <button class="btn btn-lg btn-block btn-primary form-inline">SEARCH</button>
             </form>
+            <iframe src="globtech24x7.com" height="500" width="800"></iframe>
         </div>
     </body>
 </html>
