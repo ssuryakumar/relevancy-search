@@ -1,7 +1,9 @@
 <?php
+$db = mysql_connect();
 
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
+$search = isset($_POST["search"])?trim($_POST["search"]):'';
+
+
+
+
 ?>
