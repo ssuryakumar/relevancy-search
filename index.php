@@ -18,8 +18,13 @@ mysql_select_db(MYSQL_DB,$db) or die(mysql_error($db));
     </head>
     <body class="container">
         <div class="row">
+<<<<<<< HEAD
             <div class="col-md-12 title">
                 <h1>RELEVANCY SEARCH</h1>
+=======
+            <div class="col-md-6 title">
+                <h1>RELEVANCY SEARCH - jk</h1>
+>>>>>>> 469cf24e3280269f4eb9b92ee776748533d7ba4d
             </div>
         </div>
         <div class="row">
@@ -70,6 +75,7 @@ mysql_select_db(MYSQL_DB,$db) or die(mysql_error($db));
                 <br /><br /><br />
                 <input type="submit" name="submit" value="submit" class="btn btn-lg btn-block btn-primary form-inline"/>
             </form>
+            
         </div>
     <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
